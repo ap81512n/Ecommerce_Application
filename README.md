@@ -125,7 +125,7 @@ All endpoints are prefixed with `/api/v1`.
 - [x] Order routes & controllers
 - [x] Product review routes & controllers
 - [x] App entry point (app.py) with health check
-- [ ] GitHub Actions CI pipeline
+- [x] GitHub Actions CI pipeline
 
 ---
 
