@@ -1,1 +1,22 @@
 .vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Environment secrets
+.env
+Backend/config/config.env
+
+# macOS
+.DS_Store
