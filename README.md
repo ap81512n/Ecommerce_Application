@@ -118,8 +118,8 @@ All endpoints are prefixed with `/api/v1`.
 - [x] Order model converted
 - [x] Database connection (dbConnect.py)
 - [x] Utility files (errorHandler, apiFilters, sendToken, sendEmail, emailTemplates)
-- [ ] Auth middleware (isAuthenticatedUser, authorizeRoles)
-- [ ] Global error handler
+- [x] Auth middleware (isAuthenticatedUser, authorizeRoles)
+- [x] Global error handler
 - [ ] Product routes & controllers
 - [ ] Auth routes & controllers
 - [ ] Order routes & controllers
