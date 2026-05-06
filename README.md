@@ -121,7 +121,7 @@ All endpoints are prefixed with `/api/v1`.
 - [x] Auth middleware (isAuthenticatedUser, authorizeRoles)
 - [x] Global error handler
 - [x] Product routes & controllers
-- [ ] Auth routes & controllers
+- [x] Auth routes & controllers
 - [ ] Order routes & controllers
 - [ ] Product review routes & controllers
 - [ ] App entry point (app.py) with health check
