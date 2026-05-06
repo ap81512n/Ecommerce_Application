@@ -120,7 +120,7 @@ All endpoints are prefixed with `/api/v1`.
 - [x] Utility files (errorHandler, apiFilters, sendToken, sendEmail, emailTemplates)
 - [x] Auth middleware (isAuthenticatedUser, authorizeRoles)
 - [x] Global error handler
-- [ ] Product routes & controllers
+- [x] Product routes & controllers
 - [ ] Auth routes & controllers
 - [ ] Order routes & controllers
 - [ ] Product review routes & controllers
