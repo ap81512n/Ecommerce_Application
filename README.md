@@ -113,9 +113,9 @@ All endpoints are prefixed with `/api/v1`.
 
 - [x] Project structure setup
 - [x] .gitignore, requirements.txt, .env.example
-- [ ] User model converted
-- [ ] Product model converted
-- [ ] Order model converted
+- [x] User model converted
+- [x] Product model converted
+- [x] Order model converted
 - [ ] Database connection (dbConnect.py)
 - [ ] Utility files (errorHandler, apiFilters, sendToken, sendEmail, emailTemplates)
 - [ ] Auth middleware (isAuthenticatedUser, authorizeRoles)
